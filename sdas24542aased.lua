@@ -80,13 +80,13 @@ local Themes = {
         TabContainer = Color3.fromRGB(19, 23, 30),
         Lines = Color3.fromRGB(44, 53, 67),
         HoverTabFrame = Color3.fromRGB(41, 49, 65),
-        ItemUIStroke = Color3.fromRGB(42, 49, 65),
-        TabFrame = Color3.fromRGB(34, 41, 54),
-        SectionFrame = Color3.fromRGB(23, 27, 35),
-        TabText = Color3.fromRGB(237, 237, 237),
-        ItemText = Color3.fromRGB(237, 237, 237),
-        SectionText = Color3.fromRGB(237, 237, 237),
-        ItemUIStrokeSelected = Color3.fromRGB(255, 211, 105),
+        ItemUIStroke = Color3.fromRGB(34, 40, 54),
+        TabFrame = Color3.fromRGB(26, 31, 41),
+        SectionFrame = Color3.fromRGB(18, 21, 28),
+        TabText = Color3.fromRGB(199, 199, 199),
+        ItemText = Color3.fromRGB(186, 186, 186),
+        SectionText = Color3.fromRGB(117, 117, 117),
+        ItemUIStrokeSelected = Color3.fromRGB(60, 0, 255),
         SelectedTabFrame = Color3.fromRGB(53, 64, 84),
         ItemFrame = Color3.fromRGB(32, 37, 49),
         HoverItemFrame = Color3.fromRGB(43, 50, 67),
@@ -104,10 +104,10 @@ local Themes = {
         ToggleOuterUIStroke = Color3.fromRGB(31, 36, 48),
         ToggleOuterUIStrokeEnabled = Color3.fromRGB(50, 0, 255),
         ToggleInner = Color3.fromRGB(20, 0, 100),
-        ToggleInnerEnabled = Color3.fromRGB(90, 0, 255),
+        ToggleInnerEnabled = Color3.fromRGB(60, 0, 255),
         ContainerHolder = Color3.fromRGB(25, 32, 43),
-        HighlightUIStroke = Color3.fromRGB(70, 0, 255),
-        Highlight = Color3.fromRGB(90, 0, 255)
+        HighlightUIStroke = Color3.fromRGB(60, 0, 255),
+        Highlight = Color3.fromRGB(60, 0, 255)
     }
 }
 
